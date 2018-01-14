@@ -1,7 +1,7 @@
 {
-  "name": "wxapp-request",
-  "version": "0.0.1",
-  "description": "小程序request",
+  "name": "wxapp-storage",
+  "version": "0.0.0",
+  "description": "小程序Promise storage",
   "main": "lib/index.js",
   "scripts": {
     "build": "cd src && babel *.js -d ../lib",
